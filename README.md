@@ -5,3 +5,4 @@ User can purchase multiple items at a Time.
 Here when you make purchases from the mart,these products gets deducted from existing inventory and at the same time these products are entered into saleslog of the company 
 including essential details of the sale.
 An automatic bill is generated after the buyer purchases the product.
+You can add new product into the inventory or you can add more stock to the existing item.
